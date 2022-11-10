@@ -1,4 +1,4 @@
-# vue-labiv
+# vue-topicos
 
 ## Project setup
 ```
